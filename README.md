@@ -114,5 +114,15 @@ while True:
 
 ![Screenshot 2024-09-21 103938](https://github.com/user-attachments/assets/b4e3da3f-b907-411e-9c0c-435f9ec18f11)
 
+## SERVER:
+
+![image](https://github.com/user-attachments/assets/84ff2bce-6ea6-45ec-b765-da682ddc89dc)
+
+
+
+## Result:
+
+Thus the study on Client Server Chat Applications has been performed
+
 
 
